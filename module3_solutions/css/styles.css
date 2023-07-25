@@ -7,10 +7,12 @@ body{
     font-family: comic,cursive;
 }
 
-#header-nav .navbar-default{
+#header-nav .navbar-default .navbar{
     background-color: #ffd000;
 }
-
+.navbar-default{
+    background-color: #ffd000;
+}
 .navbar-header{
     height: 70px;
     background-color: #ffd000;
