@@ -7,7 +7,7 @@ body{
     font-family: comic,cursive;
 }
 
-#header-nav .navbar-default{
+#header-nav .navbar-default .navbar{
     background-color: #ffd000;
 }
 
