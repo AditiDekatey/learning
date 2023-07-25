@@ -6,11 +6,11 @@
 body{
     font-family: comic,cursive;
 }
-/*
+
 #header-nav{
-    height: 80px;
+    background-color: #ffd000;
 }
-*/
+
 .navbar-header{
     height: 70px;
     background-color: #ffd000;
